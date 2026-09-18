@@ -160,4 +160,84 @@ And a company called Nintendo was about to completely change the situation.
 
 ---
 
+8. Nintendo enters the scene
 
+Nintendo already had a long history in entertainment and had entered the electronics market through arcades and dedicated machines.
+
+One of its key figures was:
+
+Shigeru Miyamoto.
+
+He was involved in creating games such as:
+
+Donkey Kong;
+
+Mario Bros.;
+
+and later, Super Mario Bros.
+
+
+Nintendo launched the Family Computer (Famicom) in Japan in 1983.
+
+And the philosophy was different.
+
+Nintendo wanted to carefully control:
+
+hardware
+   +
+software
+   +
+game quality
+   +
+licensing
+
+
+---
+
+9. The technological leap
+
+The Famicom/NES was not simply an improved Atari 2600.
+
+It represented a different technological generation.
+
+It featured:
+
+an 8-bit CPU;
+
+tile- and sprite-based graphics;
+
+scrolling;
+
+dedicated audio;
+
+more sophisticated cartridges;
+
+greater graphical capacity.
+
+
+And the games began to look like much more elaborate worlds.
+
+Compare the conceptual evolution:
+
+Atari 2600
+
+simple blocks
+simple sprites
+limited colors
+lots of room for creativity
+
+
+        ↓
+
+
+NES / Famicom
+
+sprites
+tiles
+scrolling
+music
+larger worlds
+more detailed characters
+
+
+---
