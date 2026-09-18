@@ -341,5 +341,71 @@ Sega also built an identity distinct from Nintendo's, especially with Sonic the 
 
 ---
 
+14. Then came the real leap to 3D
+
+In the early 1990s, the industry began to progressively move away from 2D as the primary paradigm.
+
+Technology enabled:
+
+2D
+ │
+ ├── sprites
+ ├── tiles
+ └── scrolling
+       ↓
+3D
+ │
+ ├── polygons
+ ├── cameras
+ ├── three-dimensional worlds
+ └── 3D characters
+
+Then came Sony's PlayStation, launching in Japan in 1994 and in North America and Europe in 1995.
+
+The PlayStation helped popularize a new generation based on:
+
+3D graphics;
+
+CD-ROM;
+
+digital audio;
+
+larger games;
+
+cinematics;
+
+storage capacity far superior to traditional cartridges.
+
+
+
+---
+
+15. Nintendo 64 and the leap to 3D worlds
+
+Nintendo responded with the Nintendo 64 in 1996.
+
+And one of the most important games in video game history was:
+
+Super Mario 64.
+
+The shift was massive:
+
+2D Mario
+   │
+   ▼
+3D Mario
+   │
+   ├── controllable camera
+   ├── movement in all directions
+   ├── three-dimensional worlds
+   └── exploration
+
+This changed the way designers thought about 3D games.
+
+
+---
+
+
+
 
 
