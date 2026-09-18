@@ -241,3 +241,105 @@ more detailed characters
 
 
 ---
+
+                  ▼
+      
+10. Nintendo needed to win over the US
+
+After the crash, the North American market was wary of consoles.
+
+Nintendo didn't want to simply present the machine as just another "video game console."
+
+In 1985, it launched the system in the US as the Nintendo Entertainment System (NES).
+
+The presentation and positioning were different, featuring the famous R.O.B.—a robot that interacted with specific games.
+
+Nintendo also introduced a licensing system to control game production.
+
+
+---
+
+11. And then came Super Mario Bros.
+
+This is where the major cultural leap occurred.
+
+Super Mario Bros. transformed the console into a machine capable of offering an experience much closer to a full-fledged adventure.
+
+The player had:
+
+character
+   ↓
+movement
+   ↓
+levels
+   ↓
+enemies
+   ↓
+power-ups
+   ↓
+secrets
+   ↓
+progression
+
+It wasn't just about:
+
+> "playing for a few minutes."
+
+
+
+There was a world to explore and master.
+
+
+---
+
+12. The console becomes a platform once again
+
+Nintendo managed to rebuild market confidence through a much more controlled system.
+
+The structure became:
+
+NINTENDO
+                  │
+        ┌─────────┴─────────┐
+        │                   │
+     Hardware            Licenses
+        │                   │
+        └─────────┬─────────┘
+                  │
+                Games
+                  │
+                  ▼
+               Players
+
+This helped avoid some of the chaos that had contributed to the crisis.
+
+
+---
+
+13. And Sega responds
+
+In the second half of the 1980s, Sega emerged as another major player.
+
+First with the Master System and later—in 1988 in Japan—with the Mega Drive (known as the Genesis in the US).
+
+Here, another leap occurred:
+
+16-bit.
+
+NES / Famicom
+     │
+     │ 8-bit
+     ▼
+Mega Drive / Genesis
+     │
+     │ 16-bit
+     ▼
+more sophisticated graphics and audio
+
+Sega also built an identity distinct from Nintendo's, especially with Sonic the Hedgehog, released in 1991.
+
+
+---
+
+
+
