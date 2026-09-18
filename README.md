@@ -406,6 +406,66 @@ This changed the way designers thought about 3D games.
 ---
 
 
+16. From crisis to leap
+
+We can summarize the entire history like this:
+
+1972
+Magnavox Odyssey
+      │
+      ▼
+Arcades / Pong
+      │
+      ▼
+1977
+Atari 2600
+      │
+      ▼
+video game boom
+      │
+      ▼
+1982
+overproduction
+      │
+      ▼
+1983
+CRISIS
+      │
+      ▼
+industry reorganization
+      │
+      ▼
+1983/85
+Nintendo Famicom / NES
+      │
+      ▼
+more complex games
+      │
+      ▼
+1988/89
+Mega Drive / Genesis
+      │
+      ▼
+16-bit
+      │
+      ▼
+1994/95
+PlayStation
+      │
+      ▼
+3D + CD
+      │
+      ▼
+1996
+Nintendo 64
+      │
+      ▼
+3D worlds
+
+The great historical lesson is that the crisis did not put an end to consoles; it changed the way the industry operated. The subsequent period brought greater control over publishing and quality, more powerful hardware, and progressively more complex games.
+
+
+
 
 
 
